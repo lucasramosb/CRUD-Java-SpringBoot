@@ -24,7 +24,7 @@ Para executar o projeto, siga os passos abaixo:
 1. Clone este repositório para o seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://github.com/lucasramosb/CRUD_Java-SpringBoot.git
 
 2. Abra o projeto em sua IDE
 3. Execute a classe principal Application.java para iniciar o servidor Spring Boot.
