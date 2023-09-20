@@ -42,7 +42,7 @@ A seguir estão os endpoints disponíveis na API:
 ### Criar Pessoa
 
 - **Método:** POST
-- **URL:** `http://localhost:8080/users`
+- **URL:** `http://localhost:8080/users/add`
 - **Corpo da solicitação (JSON):**
   ```json
   {
@@ -66,4 +66,4 @@ A seguir estão os endpoints disponíveis na API:
   }
 ### Deletar Pessoa
 - **Método:** DELETE
-- **URL:** `http://localhost:8080/user/{id}`
+- **URL:** `http://localhost:8080/users/delete/{id}`
